@@ -1,0 +1,18 @@
+.nome {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 15px;
+  }
+
+  .container {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+}
