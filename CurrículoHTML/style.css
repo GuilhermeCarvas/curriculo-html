@@ -6,7 +6,7 @@
     font-size: 15px;
   }
 
-  .container {
+  .containe {
     display: flex;
     gap: 30px;
     align-items: flex-start;
@@ -15,4 +15,4 @@
 .item {
     display: flex;
     flex-direction: column;
-}
+} 
